@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\TextureSynthesis\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\TextureSynthesis\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\packages\nupengl.core.0.1.0.1\build\native\include\GLFW\glfw3.h(92): message : see previous definition of 'APIENTRY'
+  TextureSynthesis.vcxproj -> C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\x64\Debug\TextureSynthesis.exe

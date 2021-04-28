@@ -1,0 +1,10 @@
+﻿  BinaryTree.cpp
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\TextureSynthesis\BinaryTree.cpp(163,21): warning C4018: '<': signed/unsigned mismatch
+  ImageThings.cpp
+  LBG.cpp
+  main.cpp
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\TextureSynthesis\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\TextureSynthesis\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rando\Documents\TexSynthesis\TSVQTEXSYNTH\TextureSynthesis\TextureSynthesis\main.cpp(62,10): fatal error C1083: Cannot open include file: 'opencv2/imgproc.hpp': No such file or directory
+  Structs.cpp
+  Generating Code...
